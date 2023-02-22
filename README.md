@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeineb12345
 - 👀 I’m interested in DevOps, software development and web development.
-- 🌱 I’m currently learning Containerization, Docker, Git, LINUX, HTML, CSS, Javascript..
+- 🌱 I’m currently learning JAVA, Spring Boot framework, Angular, Docker and Kubernetes..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
