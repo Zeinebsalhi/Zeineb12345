@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeinebsal
+- 👋 Hi, I’m @Zeineb Salhi
 - 👀 I’m interested in DevOps, software development and web development.
 - 🌱 I’m currently learning JAVA, Spring Boot framework, Angular, Docker and Kubernetes..
 - 💞️ I’m looking to collaborate on ...
